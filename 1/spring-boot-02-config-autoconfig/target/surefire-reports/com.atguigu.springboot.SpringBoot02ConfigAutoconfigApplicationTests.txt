@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.atguigu.springboot.SpringBoot02ConfigAutoconfigApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.26 s - in com.atguigu.springboot.SpringBoot02ConfigAutoconfigApplicationTests

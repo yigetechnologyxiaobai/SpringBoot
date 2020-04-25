@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8d23fabe-980d-4f3c-92f9-398cc5a9454b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="F:\maven\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectId" id="1ayBDYxMNbR0CCCpqrNRAjNtv1a" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.other" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringcloudApplication (2)">
+    <configuration name="SpringcloudApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="Eureka-provider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cyy.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cyy.springcloud.SpringcloudApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringcloudApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="Eureka-consumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cyy.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cyy.springcloud.SpringcloudApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringcloudApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SpringCloud-eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cyy.springcloud.SpringcloudApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.SpringcloudApplication (2)" />
+        <item itemvalue="Spring Boot.SpringcloudApplication (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d23fabe-980d-4f3c-92f9-398cc5a9454b" name="Default Changelist" comment="" />
+      <created>1587697833127</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587697833127</updated>
+      <workItem from="1587697855671" duration="2732000" />
+      <workItem from="1587708237435" duration="659000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1340" height="439" key="GridCell.Tab.0.bottom" timestamp="1587708907163">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="439" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587708907163" />
+    <state width="1340" height="439" key="GridCell.Tab.0.center" timestamp="1587708907153">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="439" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587708907153" />
+    <state width="1340" height="439" key="GridCell.Tab.0.left" timestamp="1587708907153">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="439" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587708907153" />
+    <state width="1340" height="439" key="GridCell.Tab.0.right" timestamp="1587708907153">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="439" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587708907153" />
+    <state width="1340" height="439" key="GridCell.Tab.1.bottom" timestamp="1587708907163">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="439" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587708907163" />
+    <state width="1340" height="439" key="GridCell.Tab.1.center" timestamp="1587708907163">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="439" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587708907163" />
+    <state width="1340" height="439" key="GridCell.Tab.1.left" timestamp="1587708907163">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="439" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587708907163" />
+    <state width="1340" height="439" key="GridCell.Tab.1.right" timestamp="1587708907163">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="439" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587708907163" />
+    <state width="506" height="356" key="documentation.popup.size" timestamp="1587699885775">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="506" height="356" key="documentation.popup.size/0.0.1920.1040@0.0.1920.1040" timestamp="1587699885775" />
+    <state x="669" y="231" width="1251" height="750" key="new project wizard" timestamp="1587699623074">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="669" y="231" width="1251" height="750" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1587699623074" />
+    <state x="1128" y="246" key="search.everywhere.popup" timestamp="1587699907442">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1128" y="246" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1587699907442" />
+  </component>
+  <component name="ZooKeeperConfig">
+    <option name="host" value="192.168.10.128" />
+    <option name="port" value="2181" />
+    <option name="charset" value="UTF-8" />
+    <option name="whitePaths" value="" />
+    <option name="enabled" value="true" />
+    <option name="tooltip" value="true" />
+  </component>
+</project>

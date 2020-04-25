@@ -1,0 +1,16 @@
+server:
+  port: 8081
+
+spring:
+  application:
+    name: rabbitmq-provider
+  rabbitmq:
+    host: 192.168.10.128
+    port: 5672
+    username: guest
+    password: guest
+
+    # \u786E\u8BA4\u6D88\u606F\u5DF2\u53D1\u9001\u5230\u961F\u5217\uFF08Queue\uFF09
+    publisher-returns: true
+    # \u786E\u8BA4\u6D88\u606F\u5DF2\u7ECF\u53D1\u9001\u5230\u4EA4\u6362\u673A\uFF08Exchange\uFF09
+    publisher-confirms: true

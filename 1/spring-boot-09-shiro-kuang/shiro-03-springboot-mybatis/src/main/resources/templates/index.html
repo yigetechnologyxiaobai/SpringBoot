@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thmeleaf.org"
+      xmlns:shiro="http://www.pollix.at/thymeleaf/shiro">
+<head>
+    <meta charset="UTF-8">
+    <title>shoye</title>
+</head>
+<body>
+
+    <h3>首页</h3>
+
+    <!--从Session中判断值-->
+    <div th:if="#{session.loginUser==null}">
+        <a th:href="@{/toLogin}">登录</a>
+    </div>
+
+    <span th:text="${msg}"></span>
+
+    <hr>
+
+    <div shiro:hasPermission="user:add">
+        <a th:href="@{/user/add}">add</a>
+    </div>
+
+    <div shiro:hasPermission="user:update">
+        <a th:href="@{/user/update}">update</a>
+    </div>
+
+</body>
+</html>

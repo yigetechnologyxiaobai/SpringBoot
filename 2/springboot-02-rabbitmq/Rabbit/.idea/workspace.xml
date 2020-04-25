@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="48eac9d6-e2cc-4e81-bd80-ef13ec7445a1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="F:\maven\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aSwYZSFNc9CuIoroXdFLxlEBos" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.cyy.models.utils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.SpringbootModelsApplicationTests.get">
+    <configuration name="SpringbootModelsApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-models" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cyy.models.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cyy.models" />
+      <option name="MAIN_CLASS_NAME" value="com.cyy.models.SpringbootModelsApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootModelsApplicationTests.get" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-models" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cyy.models.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cyy.models" />
+      <option name="MAIN_CLASS_NAME" value="com.cyy.models.SpringbootModelsApplicationTests" />
+      <option name="METHOD_NAME" value="get" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootModelsApplicationTests.name" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-models" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cyy.models.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cyy.models" />
+      <option name="MAIN_CLASS_NAME" value="com.cyy.models.SpringbootModelsApplicationTests" />
+      <option name="METHOD_NAME" value="name" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootModelsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-models" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cyy.models.SpringbootModelsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SpringbootModelsApplicationTests.get" />
+        <item itemvalue="JUnit.SpringbootModelsApplicationTests.name" />
+        <item itemvalue="JUnit.SpringbootModelsApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48eac9d6-e2cc-4e81-bd80-ef13ec7445a1" name="Default Changelist" comment="" />
+      <created>1586742350439</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586742350439</updated>
+      <workItem from="1586742352300" duration="79000" />
+      <workItem from="1586742585715" duration="3000" />
+      <workItem from="1586743188342" duration="3781000" />
+      <workItem from="1586767509227" duration="649000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586746136891">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586746136891" />
+    <state width="1877" height="339" key="GridCell.Tab.0.bottom" timestamp="1586747308525">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="339" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586747308525" />
+    <state width="1877" height="339" key="GridCell.Tab.0.center" timestamp="1586747308524">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="339" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586747308524" />
+    <state width="1877" height="339" key="GridCell.Tab.0.left" timestamp="1586747308524">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="339" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586747308524" />
+    <state width="1877" height="339" key="GridCell.Tab.0.right" timestamp="1586747308525">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="339" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586747308525" />
+    <state width="1877" height="339" key="GridCell.Tab.1.bottom" timestamp="1586747308525">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="339" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586747308525" />
+    <state width="1877" height="339" key="GridCell.Tab.1.center" timestamp="1586747308525">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="339" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586747308525" />
+    <state width="1877" height="339" key="GridCell.Tab.1.left" timestamp="1586747308525">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="339" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586747308525" />
+    <state width="1877" height="339" key="GridCell.Tab.1.right" timestamp="1586747308525">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="339" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586747308525" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1586744568267">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586744568267" />
+    <state x="1022" y="236" width="672" height="678" key="search.everywhere.popup" timestamp="1586767527918">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1022" y="236" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586767527918" />
+  </component>
+</project>

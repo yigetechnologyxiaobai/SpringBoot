@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="66b3ed23-6b9b-43fd-ab6f-bba69c69e360" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="linux" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>run</find>
+      <find>DatasourceInitializ</find>
+    </findStrings>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\maven\maven_repository" />
+        <option name="mavenHome" value="F:/maven/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="F:\maven\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_INTERNAL" />
+  </component>
+  <component name="ProjectId" id="1ZsgC24zrnmCFNA6pQPyKLrP5Gu" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1579175291035" />
+    <property name="database.console.LAST_STATE" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.atguigu.springboot.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\workspace\workspace-springboot\spring-boot-06-data-jdbc\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringBoot06DataJdbcApplication">
+    <configuration name="SpringBoot06DataJdbcApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-06-data-jdbc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.springboot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.springboot" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.springboot.SpringBoot06DataJdbcApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot06DataJdbcApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-06-data-jdbc" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springboot.SpringBoot06DataJdbcApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.SpringBoot06DataJdbcApplicationTests.contextLoads" />
+      <item itemvalue="Spring Boot.SpringBoot06DataJdbcApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SpringBoot06DataJdbcApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Dell\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66b3ed23-6b9b-43fd-ab6f-bba69c69e360" name="Default Changelist" comment="" />
+      <created>1579094766932</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579094766932</updated>
+      <workItem from="1579094771529" duration="701000" />
+      <workItem from="1579138581528" duration="7206000" />
+      <workItem from="1585633087313" duration="1368000" />
+      <workItem from="1585646357216" duration="834000" />
+      <workItem from="1585706338914" duration="3370000" />
+      <workItem from="1585719018992" duration="23000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="SpringBoot06DataJdbcApplicationTests_contextLoads - 2020.01.16 at 17h 50m 30s.xml">
+      <configuration name="SpringBoot06DataJdbcApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringBoot06DataJdbcApplicationTests_contextLoads - 2020.01.16 at 17h 51m 59s.xml">
+      <configuration name="SpringBoot06DataJdbcApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringBoot06DataJdbcApplicationTests_contextLoads - 2020.01.16 at 17h 53m 19s.xml">
+      <configuration name="SpringBoot06DataJdbcApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringBoot06DataJdbcApplicationTests_contextLoads - 2020.01.16 at 19h 19m 06s.xml">
+      <configuration name="SpringBoot06DataJdbcApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="517" y="186" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585633742500">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="517" y="186" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585633742500" />
+    <state width="1877" height="400" key="GridCell.Tab.0.bottom" timestamp="1585719005917">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="400" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585719005917" />
+    <state width="1877" height="400" key="GridCell.Tab.0.center" timestamp="1585719005917">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="400" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585719005917" />
+    <state width="1877" height="400" key="GridCell.Tab.0.left" timestamp="1585719005917">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="400" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585719005917" />
+    <state width="1877" height="400" key="GridCell.Tab.0.right" timestamp="1585719005917">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="400" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585719005917" />
+    <state width="1877" height="400" key="GridCell.Tab.1.bottom" timestamp="1585719005917">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="400" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585719005917" />
+    <state width="1877" height="400" key="GridCell.Tab.1.center" timestamp="1585719005917">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="400" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585719005917" />
+    <state width="1877" height="400" key="GridCell.Tab.1.left" timestamp="1585719005917">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="400" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585719005917" />
+    <state width="1877" height="400" key="GridCell.Tab.1.right" timestamp="1585719005917">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="400" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585719005917" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8c722af1-a2e8-4169-9221-ccbb35963be0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="spring-boot-04-web-old" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>defaultErrorViewResolver</find>
+      <find>customFormat</find>
+      <find>ServletListenerRegistrationBean</find>
+      <find>tomcat</find>
+      <find>ServletWebServerFactoryConfiguration</find>
+      <find>Embedded</find>
+      <find>EmbeddedTomcat</find>
+      <find>getWebServer</find>
+      <find>Web</find>
+      <find>port</find>
+      <find>TomcatServletWebServerFactory</find>
+      <find>onRefre</find>
+      <find>onrefresh</find>
+      <find>refreshContext</find>
+      <find>refresh</find>
+    </findStrings>
+  </component>
+  <component name="HierarchyBrowserManager">
+    <option name="SORT_ALPHABETICALLY" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\maven\maven_repository" />
+        <option name="mavenHome" value="F:/maven/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="F:\maven\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_INTERNAL" />
+  </component>
+  <component name="ProjectId" id="1ZbApbq4o4hFlwMxNNkCTpAmqJl" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578706611269" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring-boot-06-data-jdbc" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\workspace\workspace-springboot\spring-boot-04-web-restfulcrud\src\main\resources\templates\error" />
+      <recent name="E:\workspace\workspace-springboot\spring-boot-04-web-restfulcrud\src\main\resources\templates\emp" />
+      <recent name="E:\workspace\workspace-springboot\spring-boot-04-web-restfulcrud\src\main\resources\i18n" />
+      <recent name="E:\workspace\workspace-springboot\spring-boot-04-web-restfulcrud\src\main\resources\templates" />
+      <recent name="E:\workspace\workspace-springboot\spring-boot-04-web-restfulcrud\src\main\java\com\atguigu\springboot" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\workspace\workspace-springboot\spring-boot-04-web-restfulcrud\src\main\resources\templates\error" />
+      <recent name="E:\workspace\workspace-springboot\spring-boot-04-web-restfulcrud\src\main\resources\templates\emp" />
+      <recent name="E:\workspace\workspace-springboot\spring-boot-04-web-restfulcrud\src\main\resources\public" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="SpringBoot04WebRestfulcrudApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-04-web-restfulcrud" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springboot.SpringBoot04WebRestfulcrudApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_FROM_SOURCE" value="true" />
+    <option name="ACTIVE_ACTIONS" value=",SHOW_NON_PUBLIC,ALPHA_COMPARATOR,SHOW_INHERITED" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Dell\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c722af1-a2e8-4169-9221-ccbb35963be0" name="Default Changelist" comment="" />
+      <created>1578462675813</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578462675813</updated>
+      <workItem from="1578462677331" duration="15137000" />
+      <workItem from="1578550464578" duration="12968000" />
+      <workItem from="1578618877269" duration="12219000" />
+      <workItem from="1578635522249" duration="2781000" />
+      <workItem from="1578638979565" duration="309000" />
+      <workItem from="1578639292145" duration="6348000" />
+      <workItem from="1578704480443" duration="1982000" />
+      <workItem from="1585097605591" duration="27000" />
+      <workItem from="1585099953491" duration="1842000" />
+      <workItem from="1585113115988" duration="1394000" />
+      <workItem from="1585273201473" duration="8000" />
+      <workItem from="1585286697764" duration="70000" />
+      <workItem from="1585286788316" duration="18000" />
+      <workItem from="1585295047767" duration="451000" />
+      <workItem from="1585301420601" duration="374000" />
+      <workItem from="1585314613448" duration="1321000" />
+      <workItem from="1585374049838" duration="310000" />
+      <workItem from="1585617384447" duration="4736000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1220" y="238" key="#com.intellij.ide.util.MemberChooser" timestamp="1585617920150">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1220" y="238" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1585617920150" />
+    <state x="1188" y="325" key="FileChooserDialogImpl" timestamp="1585633081333">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1188" y="325" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585633081333" />
+    <state width="1877" height="375" key="GridCell.Tab.0.bottom" timestamp="1585633084202">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585633084202" />
+    <state width="1877" height="375" key="GridCell.Tab.0.center" timestamp="1585633084202">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585633084202" />
+    <state width="1877" height="375" key="GridCell.Tab.0.left" timestamp="1585633084202">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585633084202" />
+    <state width="1877" height="375" key="GridCell.Tab.0.right" timestamp="1585633084202">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585633084202" />
+    <state width="1157" height="373" key="GridCell.Tab.1.bottom" timestamp="1585374362165">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1157" height="373" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585374362165" />
+    <state width="1157" height="373" key="GridCell.Tab.1.center" timestamp="1585374362165">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1157" height="373" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585374362165" />
+    <state width="1157" height="373" key="GridCell.Tab.1.left" timestamp="1585374362165">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1157" height="373" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585374362165" />
+    <state width="1157" height="373" key="GridCell.Tab.1.right" timestamp="1585374362165">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1157" height="373" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585374362165" />
+    <state x="463" y="165" key="SettingsEditor" timestamp="1585617459141">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="463" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585617459141" />
+    <state x="535" y="110" width="1224" height="762" key="new project wizard" timestamp="1585113912582">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="535" y="110" width="1224" height="762" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1585113912582" />
+    <state x="1064" y="236" width="672" height="678" key="search.everywhere.popup" timestamp="1585632621943">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1064" y="236" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1585632621943" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

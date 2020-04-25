@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    username: root
+    password: 1015
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    type: com.alibaba.druid.pool.DruidDataSource
+    url: jdbc:mysql://localhost:3306/eesy?useUnicode=true&characterEncoding=utf-8&serverTimezone=UTC
+  redis:
+    host: 192.168.10.128
+debug: true

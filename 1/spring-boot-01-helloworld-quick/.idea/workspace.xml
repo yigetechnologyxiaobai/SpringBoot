@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="70eb6b53-69f8-4b7b-ad40-7f518393d024" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\maven\maven_repository" />
+        <option name="mavenHome" value="F:/maven/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="F:\maven\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_INTERNAL" />
+  </component>
+  <component name="ProjectId" id="1ZU67DZeBE9ZYvXWXLh4THmIQA9" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1577958877876" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring-boot-02-config-02" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+    <property name="show.run.dashboard.notification" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="SpringBoot01HelloworldQuickApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-01-helloworld-quick" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springboot.SpringBoot01HelloworldQuickApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Dell\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70eb6b53-69f8-4b7b-ad40-7f518393d024" name="Default Changelist" comment="" />
+      <created>1577957544400</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577957544400</updated>
+      <workItem from="1577957546982" duration="1328000" />
+      <workItem from="1584881176217" duration="245000" />
+      <workItem from="1584881430641" duration="1213000" />
+      <workItem from="1585573372144" duration="1778000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="828" y="184" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584882289509">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="828" y="184" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584882289509" />
+    <state x="1268" y="284" key="FileChooserDialogImpl" timestamp="1585576634881">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1268" y="284" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585576634881" />
+    <state width="1166" height="288" key="GridCell.Tab.0.bottom" timestamp="1584882661120">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1166" height="288" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584882661120" />
+    <state width="1166" height="288" key="GridCell.Tab.0.center" timestamp="1584882661120">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1166" height="288" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584882661120" />
+    <state width="1166" height="288" key="GridCell.Tab.0.left" timestamp="1584882661120">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1166" height="288" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584882661120" />
+    <state width="1166" height="288" key="GridCell.Tab.0.right" timestamp="1584882661120">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1166" height="288" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584882661120" />
+    <state width="1166" height="288" key="GridCell.Tab.1.bottom" timestamp="1584882661120">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1166" height="288" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584882661120" />
+    <state width="1166" height="288" key="GridCell.Tab.1.center" timestamp="1584882661120">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1166" height="288" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584882661120" />
+    <state width="1166" height="288" key="GridCell.Tab.1.left" timestamp="1584882661120">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1166" height="288" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584882661120" />
+    <state width="1166" height="288" key="GridCell.Tab.1.right" timestamp="1584882661120">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1166" height="288" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584882661120" />
+    <state x="463" y="165" key="SettingsEditor" timestamp="1584882630579">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="463" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1584882630579" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

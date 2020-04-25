@@ -1,0 +1,8 @@
+
+`
+java:S2095"EUse try-with-resources or close this "Channel" in a "finally" clause.(‡î‰´ûÿÿÿÿ
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ó³²ƒúÿÿÿÿ
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Á²¹°þÿÿÿÿ
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(ÜÓ•¬

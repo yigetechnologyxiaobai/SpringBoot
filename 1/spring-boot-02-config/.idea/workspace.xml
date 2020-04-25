@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5e633179-efd2-4818-94d5-2ac213b9e213" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\maven\maven_repository" />
+        <option name="mavenHome" value="F:/maven/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="F:\maven\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_INTERNAL" />
+  </component>
+  <component name="ProjectId" id="1ZU9Cif2w92YR8lSkFtQ0jzz98p" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578018142782" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RunManager" selected="JUnit.SpringBoot02ConfigApplicationTests.testHelloService">
+    <configuration name="SpringBoot02ConfigApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-02-config" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.springboot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.springboot" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.springboot.SpringBoot02ConfigApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot02ConfigApplicationTests.testHelloService" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-02-config" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.springboot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.springboot" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.springboot.SpringBoot02ConfigApplicationTests" />
+      <option name="METHOD_NAME" value="testHelloService" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot02ConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-02-config" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springboot.SpringBoot02ConfigApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.SpringBoot02ConfigApplicationTests.contextLoads" />
+      <item itemvalue="JUnit.SpringBoot02ConfigApplicationTests.testHelloService" />
+      <item itemvalue="Spring Boot.SpringBoot02ConfigApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SpringBoot02ConfigApplicationTests.testHelloService" />
+        <item itemvalue="JUnit.SpringBoot02ConfigApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpringBeansView">
+    <option name="beanDetailsProportion" value="0.3" />
+  </component>
+  <component name="SpringBootOptions">
+    <option name="showAdditionalConfigNotification" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Dell\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e633179-efd2-4818-94d5-2ac213b9e213" name="Default Changelist" comment="" />
+      <created>1577958864278</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577958864278</updated>
+      <workItem from="1577958867332" duration="1151000" />
+      <workItem from="1578009777993" duration="7944000" />
+      <workItem from="1584882680832" duration="2474000" />
+      <workItem from="1584926901848" duration="4235000" />
+      <workItem from="1584931255503" duration="1471000" />
+      <workItem from="1584936042216" duration="15000" />
+      <workItem from="1584936140031" duration="88000" />
+      <workItem from="1584942029600" duration="8000" />
+      <workItem from="1585035174171" duration="3660000" />
+      <workItem from="1585572908617" duration="289000" />
+      <workItem from="1585575602539" duration="1015000" />
+      <workItem from="1585615590226" duration="21000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="181" key="#Project_Structure" timestamp="1584882707264">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="181" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1584882707264" />
+    <state x="792" y="255" key="FileChooserDialogImpl" timestamp="1584936052267">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="792" y="255" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1584936052267" />
+    <state width="1249" height="307" key="GridCell.Tab.0.bottom" timestamp="1585576623349">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1249" height="307" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585576623349" />
+    <state width="1249" height="307" key="GridCell.Tab.0.center" timestamp="1585576623349">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1249" height="307" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585576623349" />
+    <state width="1249" height="307" key="GridCell.Tab.0.left" timestamp="1585576623349">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1249" height="307" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585576623349" />
+    <state width="1249" height="307" key="GridCell.Tab.0.right" timestamp="1585576623349">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1249" height="307" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585576623349" />
+    <state width="1249" height="339" key="GridCell.Tab.1.bottom" timestamp="1585040204433">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1249" height="339" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585040204433" />
+    <state width="1249" height="339" key="GridCell.Tab.1.center" timestamp="1585040204432">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1249" height="339" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585040204432" />
+    <state width="1249" height="339" key="GridCell.Tab.1.left" timestamp="1585040204432">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1249" height="339" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585040204432" />
+    <state width="1249" height="339" key="GridCell.Tab.1.right" timestamp="1585040204433">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1249" height="339" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585040204433" />
+    <state x="463" y="165" key="SettingsEditor" timestamp="1584882927851">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="463" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1584882927851" />
+    <state x="441" y="154" width="1142" height="714" key="new project wizard" timestamp="1584883089852">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="441" y="154" width="1142" height="714" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1584883089852" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="" />
+  </component>
+</project>

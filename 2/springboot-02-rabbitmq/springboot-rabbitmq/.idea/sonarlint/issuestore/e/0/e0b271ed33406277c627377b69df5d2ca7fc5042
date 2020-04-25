@@ -1,0 +1,17 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(™íöÔıÿÿÿÿ8´Ê¨•—.
+r
+java:S1192#"UDefine a constant instead of duplicating this literal "ReturnCallback:     " 5 times.(ëÈ‡Ã8´Ê¨•—.
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(ëÈ‡Ã8´Ê¨•—.
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(¦Ïì8´Ê¨•—.
+J
+java:S1604"(Make this anonymous inner class a lambda(Ñê´ƒùÿÿÿÿ8´Ê¨•—.
+s
+java:S1192"VDefine a constant instead of duplicating this literal "ConfirmCallback:     " 3 times.(õ“«8´Ê¨•—.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(õ“«8´Ê¨•—.
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(¡Ñµ8´Ê¨•—.
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(¯Ÿ—§şÿÿÿÿ8´Ê¨•—.
+J
+java:S1604 "(Make this anonymous inner class a lambda(óÏô«üÿÿÿÿ8´Ê¨•—.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¬¾ã°8´Ê¨•—.
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(’øè8´Ê¨•—.
